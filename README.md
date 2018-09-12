@@ -16,3 +16,4 @@ is useful to restructure data, for use with fgls(). Function FSV.frompedi() crea
 variables based upon available information in a pedigree file. Functions gls.batch()
 and gls.batch.get() use these family-structure variables, which represent the type of family to
 which each participant belongs and how s/he fits into that family.
+A user guide can be found here: https://github.com/SAONLIB/RFGLS/blob/master/RFGLS.pdf
